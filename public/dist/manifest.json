@@ -1,0 +1,11 @@
+{
+  "name": "Progressive Budget app",
+  "short_name": "Budget",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An application that allows you to track your budget expenses even when you are offline and then gets calculated total when back to online.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "theme-color": "#ffffff"
+}
